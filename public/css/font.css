@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Yekan;
+    src: url('public/webfonts/Yekan.eot');
+    src: url('public/webfonts/Yekan.eot?#iefix') format('public/webfonts/Yekan-opentype'),
+    url('/webfonts/Yekan.woff') format('woff'),
+    url('public/webfonts/Yekan.ttf') format('truetype');
+    font-style: normal;
+}
+@font-face {
+    font-family: BNazanin;
+    src: url('public/webfonts/BNazanin.eot');
+    src: url('public/webfonts/BNazanin.eot?#iefix') format('public/webfonts/BNazanin-opentype'),
+    url('/webfonts/BNazanin.woff') format('woff'),
+    url('public/webfonts/BNazanin.ttf') format('truetype');
+    font-style: normal;
+}
